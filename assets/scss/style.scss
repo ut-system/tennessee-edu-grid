@@ -1,0 +1,30 @@
+// *
+// * University of Tennessee System
+// * http://tennessee.edu/
+// *
+// * @author Mike Hardin
+// * @author Nick Simson
+// * @version 0.1
+// */
+
+
+// ==========================================================
+// = Site Variables                                         =
+// ==========================================================
+@import "variables.scss";
+
+// ==========================================================
+// = Import normalize baseline and grid                     =
+// ==========================================================
+
+@import "normalize.scss", "baseline.scss", "grid.scss";
+
+// ==========================================================
+// = Your custom styles go here                             =
+// ==========================================================
+
+body{
+	background: url(../images/bg.png) 0 2px;
+}
+
+@import "custom.scss";
