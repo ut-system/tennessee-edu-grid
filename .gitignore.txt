@@ -1,4 +1,4 @@
 everything.html
 grid.html
 htaccess.txt
-scss
+assets/scss/
