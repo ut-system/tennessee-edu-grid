@@ -114,10 +114,10 @@ ul.related li:after {
 
 @media screen and ( min-width: 50em ) {
 
-    .primary {width: auto;}
-    .secondary {width: 37.5%; max-width: 18.75em;}
+    .primary {width: 62.5%;}
+    .secondary {width: 37.5%; }
     
-    .contacts{width: 37.5%; max-width: 18.75em; float: right;}
+    .contacts{width: 37.5%; float: right;}
     
     .global-links li {letter-spacing: 0.09em; text-transform: uppercase;}
     .navigation ul{display: block;}
@@ -128,7 +128,7 @@ ul.related li:after {
 @media screen and ( min-width: 62.5em ) {
 
     .primary {width: 70%;}
-    .secondary, .contacts {width: 30%; max-width: 30em;}
+    .secondary, .contacts {width: 30%;}
     
     .global-links li {font-size: .75em;}
 }
