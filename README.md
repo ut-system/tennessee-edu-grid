@@ -1,5 +1,6 @@
 # tennessee-edu-grid
-Sass-based grid system for news layout and (eventual) dept pages
+Floats-based grid system for news layout and (eventual) dept pages
+[Live demo](https://ut-system.github.io/tennessee-edu-grid/featured-press-release.html)
 
 ##Tools Used
 ReGrid: http://regrid.finelysliced.com.au/
